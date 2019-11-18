@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "235389106446",
+    "firebase_url": "https://menza-663af.firebaseio.com",
+    "project_id": "menza-663af",
+    "storage_bucket": "menza-663af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235389106446:android:37c6a4bb89a1a693",
+        "android_client_info": {
+          "package_name": "com.example.popic.menza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235389106446-cl5so28l60ofogu0bags6aj73pksd8sc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0dZ2YFpaM6irtXD8Ha2Oa_i5Xco_OeDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235389106446-cl5so28l60ofogu0bags6aj73pksd8sc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235389106446:android:d21de44de97e6306",
+        "android_client_info": {
+          "package_name": "toni.popic.menza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235389106446-o84314tab8p6ipei5kvqho1a2p3bggl7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "toni.popic.menza",
+            "certificate_hash": "5a1baf7688d9b4e60b176b2574f36e7fea5badc2"
+          }
+        },
+        {
+          "client_id": "235389106446-cl5so28l60ofogu0bags6aj73pksd8sc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0dZ2YFpaM6irtXD8Ha2Oa_i5Xco_OeDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235389106446-cl5so28l60ofogu0bags6aj73pksd8sc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

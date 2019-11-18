@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="testSize50">50sp</dimen>
+    <dimen name="margin10">10sp</dimen>
+    <dimen name="margin20">20sp</dimen>
+    <dimen name="textsize25">25sp</dimen>
+    <dimen name="margin100">100sp</dimen>
+    <dimen name="textsize20">20sp</dimen>
+    <dimen name="textsize30">30sp</dimen>
+    <dimen name="heigh2sp">2sp</dimen>
+    <dimen name="height300">300sp</dimen>
+</resources>
